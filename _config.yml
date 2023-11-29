@@ -19,7 +19,7 @@ title: Rao Athar Khan # the main title
 tagline: Software Developer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Welcome to my blog.
+  Rao Athar Khan, atharao, Blog, resume, portfolio.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1694468838132518912/eOjdb05Y_400x400.jpg
+avatar: /assets/img/personal/1.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
