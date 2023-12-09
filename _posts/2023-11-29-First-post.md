@@ -14,4 +14,5 @@ Today is a special day for me yes its my birthday(29/11), and I want to make cer
 
 I've been inspired to start this blog by my brother, [mzfr](https://twitter.com/0xmzfr) who has always encouraged me to strive for better things in my life. He writes about his career, and his [blog](https://blog.mzfr.me/) has been helpful for me ,to continue this legacy, here is my first blog.
 
-Since I'm new to this blogging thing, I'm not sure how things will go in the future. However, I will definitely keep writing. One thing I can guarantee is that you will learn something from these blogs that will help you somewhere in your life, even if it's just 1% andtThat is my whole "motive".
+Since I'm new to this blogging thing, I'm not sure how things will go in the future. However, I will definitely keep writing. One thing I can guarantee is that you will learn something from these blogs that will help you somewhere in your life, even if it's just 1% and 
+that is my whole "motive".
