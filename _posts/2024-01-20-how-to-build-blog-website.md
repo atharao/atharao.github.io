@@ -77,7 +77,7 @@ After you purchase your domain, go into your domain management portal, click on 
 | A | 185.199.111.153 |
 | CNAME | gh-username.github.io |
 
-*(These `A` type DNS records map your domain name to the Github's IP address)*
+*(These A type DNS records map your domain name to the Github's IP address)*
 
 
 So far, my DNS record looks like this:
