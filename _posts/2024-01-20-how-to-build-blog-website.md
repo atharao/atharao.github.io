@@ -14,7 +14,7 @@ I've looked into various blogging platforms like [Wordpress](https://wordpress.c
 2. A blog that is free and doesn't require me to pay for hosting. 
 3. A blog that is simple, fast and easy to maintain doesn't require me to spend hours to configure it.
 
-Did I convince you? OK, now let's break down the steps to setup your blogging site.
+Let's break down the steps to setup your blogging site.
 
 ## Step 1: Decide Your Theme
 
@@ -23,7 +23,6 @@ This step is to quickly browse through the various Jekyll themes available on va
 Few sites where you can grab these templates:
 
 * <https://jekyllthemes.io/>
-<!-- * <http://jekyllthemes.org/> -->
 * <https://jekyll-themes.com/>
 * <https://jamstackthemes.dev/ssg/jekyll/>
 
@@ -60,7 +59,6 @@ You need to visit one of the domain name registrar to buy a custom domain. There
 
 * [Squarespace](https://www.squarespace.com/)
 * [GoDaddy](https://www.godaddy.com/)
-* [Google Domains](https://domains.google)
 * [Name Cheap](https://www.namecheap.com/)
 * ... and many more
 
@@ -83,11 +81,11 @@ After you purchase your domain, go into your domain management portal, click on 
 So far, my DNS record looks like this:
 
 ![Desktop View](/assets/img/posts/2024-01-20-how-to-build-website/DNS-settings.jpg)
-_My Google Domain's DNS records_
+_My Name Cheap's DNS records_
 
 ### Configure Github Pages
 
-Now that you have your domain's DNS setup, Let's head back to Github and configure your Github Pages to use your custom domain.
+Now that you have your domain's DNS setup, let's head back to Github and configure your Github Pages to use your custom domain.
 
 1. Go to your repository's settings page.
 2. Scroll down to the **Pages** section.
