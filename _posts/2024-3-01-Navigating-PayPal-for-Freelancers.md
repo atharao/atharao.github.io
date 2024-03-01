@@ -14,7 +14,7 @@ As a freelance software developer, handling finances efficiently is crucial. I'v
 _Chargeback claim_
 
 * **Payment Holds**: Sometimes, PayPal freezes your funds temporarily. They're checking things out to make sure everything's okay before letting you access your money.
-![Template Blog](/assets/img/posts/2024-3-01-Navigating-PayPal-for-Freelancers/Paymenthold.png)
+![Template Blog](/assets/img/posts/2024-3-01-Navigating-PayPal-for-Freelancers/Payment.PNG)
 _Payment on hold_
 
 ## How to be ready to tackle These issues
