@@ -1,6 +1,6 @@
 ---
 title: Navigating PayPal for Freelancers | Chargebacks and Payment Holds
-date: 2024-01-20 20:14 +0300
+date: 2024-03-01 20:14 +0300
 categories: [Freelancing, Finance]
 tags: [paypal, freelancing, chargeback, payment hold]
 ---
