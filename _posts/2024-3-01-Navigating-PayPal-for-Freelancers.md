@@ -17,7 +17,7 @@ _Chargeback claim_
 ![Template Blog](/assets/img/posts/2024-3-01-Navigating-PayPal-for-Freelancers/Payment.PNG)
 _Payment on hold_
 
-## How to be ready to tackle These issues
+## How to be ready to tackle these issues
 
 ### Keep Communication Clear
 * **Use the Right Email**: Always talk to your clients using the email connected to your PayPal account. It helps keep things organized and official.
