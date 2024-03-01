@@ -10,11 +10,11 @@ As a freelance software developer, handling finances efficiently is crucial. I'v
 
 ## Understanding Chargebacks and Payment Holds
 * **Chargebacks**: This is when a client asks their bank to reverse a transaction after it's completed. It's like saying, "I changed my mind," and it can leave you without the payment you earned.
-![Template Blog](/assets/img/posts/2024-3-01-Navigating-PayPal-for-Freelancers/Chargeback.jpg)
+![Chargeback claim](/assets/img/posts/2024-3-01-Navigating-PayPal-for-Freelancers/Chargeback.jpg)
 _Chargeback claim_
 
 * **Payment Holds**: Sometimes, PayPal freezes your funds temporarily. They're checking things out to make sure everything's okay before letting you access your money.
-![Template Blog](/assets/img/posts/2024-3-01-Navigating-PayPal-for-Freelancers/Payment.PNG)
+![Payment on hold](/assets/img/posts/2024-3-01-Navigating-PayPal-for-Freelancers/Payment.PNG)
 _Payment on hold_
 
 ## How to be ready to tackle these issues
