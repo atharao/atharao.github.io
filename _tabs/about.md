@@ -4,19 +4,16 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip } -->
-
-
-![Rao Athar Khan](/assets/img/personal/2.jpg) <!-- Replace 'path-to-your-image.jpg' with the actual path to your image -->
 
 Hello! I'm Rao Athar Khan, currently serving as an Associate Front-End Engineer at [Rubico IT Pvt Ltd](https://rubicotech.in/). I'm in the final stretch of earning my Bachelor's degree in Engineering, specializing in Information Technology, from [COER University](https://coeruniversity.ac.in/).
+
+![Rao Athar Khan](/assets/img/personal/2.jpg) 
 
 ## My Journey
 
 My interest in technology spans across frontend, backend, and blockchain development. I'm also passionate about contributing to open-source projects. This blog is a space where I'll share insights, tutorials, and thoughts on various technological topics. It's designed to be a resource not just for my juniors but for anyone keen to delve into the tech world.
 
-Inspired by my brother, [mzfr](https://twitter.com/0xmzfr), I started this blog to share my knowledge and experiences. I believe in the power of learning and sharing knowledge, and my goal is to help others by providing valuable and informative content.
+I started this blog to share my knowledge and experiences. I believe in the power of learning and sharing knowledge, and my goal is to help others by providing valuable and informative content.
 
 ## Topics You'll Find Here
 
