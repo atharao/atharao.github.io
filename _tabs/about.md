@@ -35,7 +35,7 @@ Feel free to reach out to me on [Twitter](https://twitter.com/atharao_) or [Link
 ## My Work
 
 For a closer look at my professional journey and projects, check out my websites:
-- ## [Resume Website](https://atharao.com/resume/)
-- ## [Portfolio Website](https://atharao.com/portfolio/)
+- #### [Resume Website](https://atharao.com/resume/)
+- #### [Portfolio Website](https://atharao.com/portfolio/)
 
 Thank you for visiting my blog. I hope you find the content here insightful and useful. Your time spent here will undoubtedly teach you something valuable, and I look forward to engaging with you through my posts and social media.
